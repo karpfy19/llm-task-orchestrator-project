@@ -17,7 +17,7 @@ Prerequisites:
 
 Navigate to the project root:
 
-cd <project-root>
+cd [project-root]
 
 Start the system:
 
