@@ -15,6 +15,10 @@ RUNNING THE PROJECT
 Prerequisites:
 - Docker Desktop installed and running
 
+Navigate to the project root:
+
+cd <project-root>
+
 Start the system:
 
 docker compose up --build
