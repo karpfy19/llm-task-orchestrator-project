@@ -1,6 +1,6 @@
 TASK SYSTEM (FASTAPI + NEXT.JS + POSTGRESQL + BACKGROUND WORKER)
 
-This project is a full-stack task execution system built with:
+This project is a full-stack task execution system (Option 1) built with:
 
 - FastAPI (backend API)
 - PostgreSQL (persistent storage)
